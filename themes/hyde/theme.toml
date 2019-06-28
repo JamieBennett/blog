@@ -1,0 +1,16 @@
+name = "LinuxUK"
+license = "MIT"
+description = "Adventures in Software Engineering"
+categories = ["Development", "Running"]
+tags = ["Development", "Running"]
+features = ["blog", ]
+
+[author]
+    name = "Jamie Bennett"
+    homepage = "http://www.linuxuk.org"
+
+# If Porting existing theme
+[original]
+    author =  "mdo"
+    homepage = "http://andhyde.com"
+    repo = "http://www.github.com/mdo/hyde"

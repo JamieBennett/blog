@@ -1,0 +1,27 @@
+<div class="sidebar">
+	<div class="container sidebar">
+    <div class="sidebar-about">
+      <h1>{{ .Site.Title }}</h1>
+      <p class="lead">
+      Adventures in Software Engineering, Running, Vegan cooking, futurism, and other randomness
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+    <a href="/">Home</a><br/>
+    <a href="/about">About</a><br/>
+    <a href="/writings">Writings</a><br/>
+    <a href="/post">Archive</a><br/> 
+    </ul>
+
+	<ul class="sidebar-social">
+      <li>{{ with .Site.Params.twitter }}<a href="{{.}}"><img src="/media/twitter.png" /></a>{{end}}</li>
+      <li>{{ with .Site.Params.linkedin }}<a href="{{.}}"><img src="/media/linkedin.png" /></a>{{end}}</li>
+      <li>{{ with .Site.Params.github }}<a href="{{.}}"><img src="/media/github.png" /></a>{{end}}</li>
+  	</ul>
+
+    <p class="sidebar-footnote">
+    &copy; 2018, Jamie Bennett. All rights reserved. <br />Want the <a href="{{ .RSSLink }}" type="application/rss+xml">RSS feed</a>?
+    </p>
+  </div>
+</div>

@@ -1,0 +1,29 @@
+baseurl = "http://www.linuxuk.org"
+languageCode="en-us"
+title="LinuxUK"
+copyright="Jamie Bennett"
+theme="hyde"
+
+[Author]
+	author = "Jamie Bennett"
+
+[params]
+	Subtitle = "Adventures in Linux, Futurism, Vegan Cooking, Running, and other randomness"
+	sidebartitle = "LinuxUK"
+    description = "Adventures in Software Engineering land"
+  	twitter = "https://twitter.com/jamiebennett"
+  	github = "https://github.com/jamiedbennett"
+  	linkedin = "https://uk.linkedin.com/in/jamiebennett"
+  	gplus = "https://plus.google.com/u/0/+JamieBennett09"
+  	disqus = "jamiedbennett"
+
+[Taxonomies]
+  	tag = "tags"
+  	series = "series"
+  	series-desc = "series-desc"
+
+[Permalinks]
+  	blog = "/:year/:month/:filename/"
+  	code = "/:filename/"
+
+googleAnalytics = "UA-2301323-2"
