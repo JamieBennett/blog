@@ -1,4 +1,4 @@
-baseurl = "http://www.linuxuk.org"
+baseurl = ""
 languageCode="en-us"
 title="LinuxUK"
 copyright="Jamie Bennett"
@@ -14,7 +14,6 @@ theme="hyde"
   	twitter = "https://twitter.com/jamiebennett"
   	github = "https://github.com/jamiedbennett"
   	linkedin = "https://uk.linkedin.com/in/jamiebennett"
-  	gplus = "https://plus.google.com/u/0/+JamieBennett09"
   	disqus = "jamiedbennett"
 
 [Taxonomies]
