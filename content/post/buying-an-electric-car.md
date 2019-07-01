@@ -8,6 +8,7 @@ date = "2019-06-28T18:09:55Z"
 
 +++
 
+<img align="center" src="/media/BMW_i3_charging_port.png">
 ## The Promise
 I've been facinated with the idea of electric cars ever since I was young but despite all the promises in the [80's and 90's][1] they didn't materialise in any notable form. But in 2008 Tesla changed all of that with it's Roadster. Despite the problems Tesla [faced][2] the future was clear, electric cars were here to stay.
 
